@@ -1,4 +1,4 @@
-# flake8: noqa: E501
+# flake8: noqa:
 #
 # En este dataset se desea pronosticar el default (pago) del cliente el próximo
 # mes a partir de 23 variables explicativas.
